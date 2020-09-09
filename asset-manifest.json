@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/VKMA_Anime2/static/css/main.2fd5482f.chunk.css",
+    "main.js": "/VKMA_Anime2/static/js/main.65274d59.chunk.js",
+    "main.js.map": "/VKMA_Anime2/static/js/main.65274d59.chunk.js.map",
+    "runtime-main.js": "/VKMA_Anime2/static/js/runtime-main.aa6d7e95.js",
+    "runtime-main.js.map": "/VKMA_Anime2/static/js/runtime-main.aa6d7e95.js.map",
+    "static/css/2.9f63dd42.chunk.css": "/VKMA_Anime2/static/css/2.9f63dd42.chunk.css",
+    "static/js/2.b874a6f4.chunk.js": "/VKMA_Anime2/static/js/2.b874a6f4.chunk.js",
+    "static/js/2.b874a6f4.chunk.js.map": "/VKMA_Anime2/static/js/2.b874a6f4.chunk.js.map",
+    "index.html": "/VKMA_Anime2/index.html",
+    "precache-manifest.c4775e152374ba18827240dcacde96b4.js": "/VKMA_Anime2/precache-manifest.c4775e152374ba18827240dcacde96b4.js",
+    "service-worker.js": "/VKMA_Anime2/service-worker.js",
+    "static/css/2.9f63dd42.chunk.css.map": "/VKMA_Anime2/static/css/2.9f63dd42.chunk.css.map",
+    "static/css/main.2fd5482f.chunk.css.map": "/VKMA_Anime2/static/css/main.2fd5482f.chunk.css.map",
+    "static/js/2.b874a6f4.chunk.js.LICENSE.txt": "/VKMA_Anime2/static/js/2.b874a6f4.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/VKMA_Anime2/static/media/1.cb73bcbc.jpg",
+    "static/media/10.jpg": "/VKMA_Anime2/static/media/10.d055bdd2.jpg",
+    "static/media/2.jpg": "/VKMA_Anime2/static/media/2.b0dc5224.jpg",
+    "static/media/3.jpg": "/VKMA_Anime2/static/media/3.a55f7c79.jpg",
+    "static/media/4.jpg": "/VKMA_Anime2/static/media/4.5c0e6424.jpg",
+    "static/media/5.jpg": "/VKMA_Anime2/static/media/5.e8132462.jpg",
+    "static/media/6.jpg": "/VKMA_Anime2/static/media/6.fe66a29c.jpg",
+    "static/media/7.jpg": "/VKMA_Anime2/static/media/7.b4601722.jpg",
+    "static/media/8.jpg": "/VKMA_Anime2/static/media/8.dd7da76c.jpg",
+    "static/media/9.jpg": "/VKMA_Anime2/static/media/9.63b8995d.jpg",
+    "static/media/background.jpg": "/VKMA_Anime2/static/media/background.9c97046c.jpg",
+    "static/media/result.png": "/VKMA_Anime2/static/media/result.0358a2e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa6d7e95.js",
+    "static/css/2.9f63dd42.chunk.css",
+    "static/js/2.b874a6f4.chunk.js",
+    "static/css/main.2fd5482f.chunk.css",
+    "static/js/main.65274d59.chunk.js"
+  ]
+}
