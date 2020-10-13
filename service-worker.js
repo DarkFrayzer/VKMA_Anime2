@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VKMA_Anime2/precache-manifest.3a5f139e79f8ba923cc83d6277bc6c40.js"
+  "/VKMA_Anime2/precache-manifest.b7f47f1e05d79736aef726b2e1a3ace2.js"
 );
 
 self.addEventListener('message', (event) => {

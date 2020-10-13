@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VKMA_Anime2/static/css/main.197a9420.chunk.css",
-    "main.js": "/VKMA_Anime2/static/js/main.6b1e003b.chunk.js",
-    "main.js.map": "/VKMA_Anime2/static/js/main.6b1e003b.chunk.js.map",
+    "main.js": "/VKMA_Anime2/static/js/main.4d31a571.chunk.js",
+    "main.js.map": "/VKMA_Anime2/static/js/main.4d31a571.chunk.js.map",
     "runtime-main.js": "/VKMA_Anime2/static/js/runtime-main.aa6d7e95.js",
     "runtime-main.js.map": "/VKMA_Anime2/static/js/runtime-main.aa6d7e95.js.map",
     "static/css/2.9f63dd42.chunk.css": "/VKMA_Anime2/static/css/2.9f63dd42.chunk.css",
     "static/js/2.7e7820cf.chunk.js": "/VKMA_Anime2/static/js/2.7e7820cf.chunk.js",
     "static/js/2.7e7820cf.chunk.js.map": "/VKMA_Anime2/static/js/2.7e7820cf.chunk.js.map",
     "index.html": "/VKMA_Anime2/index.html",
-    "precache-manifest.3a5f139e79f8ba923cc83d6277bc6c40.js": "/VKMA_Anime2/precache-manifest.3a5f139e79f8ba923cc83d6277bc6c40.js",
+    "precache-manifest.b7f47f1e05d79736aef726b2e1a3ace2.js": "/VKMA_Anime2/precache-manifest.b7f47f1e05d79736aef726b2e1a3ace2.js",
     "service-worker.js": "/VKMA_Anime2/service-worker.js",
     "static/css/2.9f63dd42.chunk.css.map": "/VKMA_Anime2/static/css/2.9f63dd42.chunk.css.map",
     "static/css/main.197a9420.chunk.css.map": "/VKMA_Anime2/static/css/main.197a9420.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.9f63dd42.chunk.css",
     "static/js/2.7e7820cf.chunk.js",
     "static/css/main.197a9420.chunk.css",
-    "static/js/main.6b1e003b.chunk.js"
+    "static/js/main.4d31a571.chunk.js"
   ]
 }
