@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1ab653f5da8a0dbecf1a3a0ef9cb6e9",
+    "revision": "d0ce43ac758967fb3ed06fada88df9f5",
     "url": "/VKMA_Anime2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VKMA_Anime2/static/css/2.9f63dd42.chunk.css"
   },
   {
-    "revision": "0e21ff63024c8c3d5e7c",
+    "revision": "1cfdf483f27189544194",
     "url": "/VKMA_Anime2/static/css/main.197a9420.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VKMA_Anime2/static/js/2.7e7820cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e21ff63024c8c3d5e7c",
-    "url": "/VKMA_Anime2/static/js/main.926f547b.chunk.js"
+    "revision": "1cfdf483f27189544194",
+    "url": "/VKMA_Anime2/static/js/main.8fb91bd3.chunk.js"
   },
   {
     "revision": "1b1ce5f9c2cc1caf7a9f",
